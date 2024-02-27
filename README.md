@@ -1,4 +1,4 @@
-# free_time
+# Test application on Flutter & Dart
 
 A new Flutter project.
 
